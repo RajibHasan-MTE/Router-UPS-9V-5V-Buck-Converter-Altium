@@ -1,0 +1,44 @@
+Added Component: Designator=C?(CAP-220)
+Add component (AddParameter): Name = "LCSC"; Value = "C970695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RVT1C221M0607 220UF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DMBJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(TO-263-5)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301614_Texas-Instruments-LM2596S-5-0-NOPB_C116713.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C116713"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LM2596S-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=VR?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=VR?-2
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=L?-2
+Added Pin To Net: NetName=NetD?_C Pin=VR?-2
+Added Net: Name=NetD?_C
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap 220UF 16V
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component VR? LM2596S-5.0

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=VR?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=L?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=VR?-5
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VR?-4
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K

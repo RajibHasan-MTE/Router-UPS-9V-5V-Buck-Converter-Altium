@@ -1,0 +1,135 @@
+Change Component Comment : Designator=R? Old Comment=1K New Comment=1.2K
+Change Component Comment : Designator=R? Old Comment=1K New Comment=7.5K
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=VR? NewDesignator=VR2
+Change component parameters: Designator = "R?" ("R6"); Footprint = "MY_1206"; UniqueID = "\AFXABOCZ" ("\AFXABOCZ")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "7.5K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R5"); Footprint = "MY_1206"; UniqueID = "\VPNWIGSK" ("\VPNWIGSK")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2K"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP-220)
+Add component (AddParameter): Name = "LCSC"; Value = "C970695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RVT1C221M0607 220UF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DMBJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE-SS34)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C266556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "BORN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AB-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDP125125X600N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C840528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,12.5x12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(My_1X03)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 3-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P2(My_1X02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P3(My_1X02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P4(My_1X02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO254P1016X419X2286-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRFZ44N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/IRFZ44N/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.6K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(TO-263-5)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809301614_Texas-Instruments-LM2596S-5-0-NOPB_C116713.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C116713"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LM2596S-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR1-5
+Added Pin To Net: NetName=GND Pin=VR1-6
+Added Pin To Net: NetName=GND Pin=VR2-6
+Change Net Name : Old Net Name=NetD?_C New Net Name=NetD2_C
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR5_1
+Change Net Color : Old Net Color=RGB(67, 67, 67) New Net Color=RGB(102, 102, 102)
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=P2-1
+Added Pin To Net: NetName=+5V Pin=R3-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+9V Pin=C2-1
+Added Pin To Net: NetName=+9V Pin=L2-1
+Added Pin To Net: NetName=+9V Pin=P4-1
+Added Pin To Net: NetName=+9V Pin=R6-2
+Added Net: Name=+9V
+Added Pin To Net: NetName=+BAT Pin=P1-1
+Added Pin To Net: NetName=+BAT Pin=P3-2
+Added Pin To Net: NetName=+BAT Pin=VR1-1
+Added Pin To Net: NetName=+BAT Pin=VR2-1
+Added Net: Name=+BAT
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=L1-2
+Added Pin To Net: NetName=NetD1_C Pin=VR1-2
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=P3-1
+Added Pin To Net: NetName=NetP1_2 Pin=Q1-3
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R1-1
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=VR1-4
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap 220UF 16V
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap 220UF 16V
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SS34
+Added Member To Class: ClassName=Sheet1 Member=Component L1 SRR1260-330M
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 IRFZ44N
+Added Member To Class: ClassName=Sheet1 Member=Component R1 3.3k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1.2K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 3.6K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R6 7.5K
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 LM2596S-5.0
+Added Member To Class: ClassName=Sheet1 Member=Component VR2 LM2596S-5.0

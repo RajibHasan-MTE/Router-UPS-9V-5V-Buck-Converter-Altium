@@ -1,0 +1,22 @@
+Change component parameters: Designator = "L?" ("L?"); Footprint = "INDP125125X600N"; UniqueID = "\HTAZMEBG" ("\HTAZMEBG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C840528"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SRR1260-330M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,12.5x12.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-220)
+Add component (AddParameter): Name = "LCSC"; Value = "C970695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RVT1C221M0607 220UF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DMBJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE-SS34)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C266556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "BORN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AB-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap 220UF 16V
+Added Member To Class: ClassName=Sheet1 Member=Component D? SS34

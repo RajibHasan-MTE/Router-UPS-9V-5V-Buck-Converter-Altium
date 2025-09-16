@@ -1,0 +1,48 @@
+Added Component: Designator=S?(MY_PAD_3MM)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Screw-AS"; VariantName = "[No Variations]"
+Added Component: Designator=S?(MY_PAD_3MM)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Screw-AS"; VariantName = "[No Variations]"
+Added Component: Designator=S?(MY_PAD_3MM)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Screw-AS"; VariantName = "[No Variations]"
+Added Component: Designator=S?(MY_PAD_3MM)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Screw-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Pin To Net: NetName=GND Pin=S?-0
+Added Member To Class: ClassName=Sheet1 Member=Component S? Screw
+Added Member To Class: ClassName=Sheet1 Member=Component S? Screw
+Added Member To Class: ClassName=Sheet1 Member=Component S? Screw
+Added Member To Class: ClassName=Sheet1 Member=Component S? Screw
