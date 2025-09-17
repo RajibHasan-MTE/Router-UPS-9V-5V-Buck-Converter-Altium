@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=L1-2
+Added Pin To Net: NetName=NetD1_K Pin=VR1-2
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=L2-2
+Added Pin To Net: NetName=NetD2_K Pin=VR2-2
+Added Net: Name=NetD2_K

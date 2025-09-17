@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetP1_2 Pin=P3-1
+Removed Pin From Net: NetName=+BAT Pin=P3-2
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Change Footprint: Cannot match pads with new footprint in component :S1 Footprint:Scre_Pad_ 3mm-Invirons 0.254mm
+Change Footprint: Cannot match pads with new footprint in component :S2 Footprint:Scre_Pad_ 3mm-Invirons 0.254mm
+Change Footprint: Cannot match pads with new footprint in component :S3 Footprint:Scre_Pad_ 3mm-Invirons 0.254mm
+Change Footprint: Cannot match pads with new footprint in component :S4 Footprint:Scre_Pad_ 3mm-Invirons 0.254mm
+Added Component: Designator=D2(SOD-123)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=T1(KF301 2Pin)
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.aliexpress.com/item/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "KF301 2Pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_2 Pin=T1-1
+Added Pin To Net: NetName=+BAT Pin=T1-2
+Added Member To Class: ClassName=Sheet1 Member=Component D2 SS34
+Added Member To Class: ClassName=Sheet1 Member=Component T1 Terminal

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+BAT Pin=T1-2
+Added Component: Designator=J4(My_DC_Jack)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "DC_Jack-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P?(My_1X02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=+BAT Pin=P?-2
+Change Net Name : Old Net Name=+BAT New Net Name=VCC
+Change Net Color : Old Net Color=Red New Net Color=Default
+Added Pin To Net: NetName=+BAT Pin=J4-3
+Added Pin To Net: NetName=+BAT Pin=P?-1
+Added Pin To Net: NetName=+BAT Pin=T1-2
+Added Net: Name=+BAT
+Added Member To Class: ClassName=Sheet1 Member=Component J4 DC_Jack
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 2
