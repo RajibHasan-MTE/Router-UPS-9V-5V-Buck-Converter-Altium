@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=+5V Pin=J1-3
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Component: Designator=U1(Plugin)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C5147479"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "DC-062A-4A-2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Through Hole,Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DC Jack"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+5V Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Member To Class: ClassName=Sheet1 Member=Component U4 DC-062A-4A-2.0

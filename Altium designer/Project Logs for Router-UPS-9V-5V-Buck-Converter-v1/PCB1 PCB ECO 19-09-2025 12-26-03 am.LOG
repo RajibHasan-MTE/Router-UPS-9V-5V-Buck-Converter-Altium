@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=D2-K
+Removed Pin From Net: NetName=+Cha Pin=D5-A
+Removed Pin From Net: NetName=+BAT Pin=D5-C
+Removed Pin From Net: NetName=+Cha Pin=R2-1
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Change Component Footprint: Designator=R2 Old Footprint=MY_1206 New Footprint=RES_0805
+Change Component Footprint: Designator=D2 Old Footprint=My_LED3MM New Footprint=DIODE-214AC
+Change Component Comment : Designator=R2 Old Comment=3.6K New Comment=RES 1K 125mW 0805
+Change Component Comment : Designator=D2 Old Comment=LED New Comment=DIODE SCHOTTKY 40V SMA
+Change Component Comment : Designator=D3 Old Comment=SS54 New Comment=DIODE SCHOTTKY 40V SMA
+Change Component Comment : Designator=D4 Old Comment=SS54 New Comment=DIODE SCHOTTKY 40V SMA
+Change component parameters: Designator = "D2" ("D2"); Footprint = "My_LED3MM"; UniqueID = "\WUTYMFOO" ("\WUTYMFOO")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C22368714"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "SS54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40V-5A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DIODE-214AC"; UniqueID = "\RCAKIVAG" ("\RCAKIVAG")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C22368714"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "SS54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40V-5A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIODE-214AC"; UniqueID = "\SWGTENJJ" ("\SWGTENJJ")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C22368714"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "SS54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40V-5A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "MY_1206"; UniqueID = "\FRHKUJRT" ("\FRHKUJRT")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25623"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "0805W8J0102T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LED_5mm_G)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Through Hole,D=5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+Cha Pin=D2-A
+Added Pin To Net: NetName=+BAT Pin=D2-C
+Added Pin To Net: NetName=GND Pin=L3-K
+Added Pin To Net: NetName=+Cha Pin=R2-2
+Added Pin To Net: NetName=NetL3_A Pin=L3-A
+Added Pin To Net: NetName=NetL3_A Pin=R2-1
+Added Net: Name=NetL3_A
+Added Member To Class: ClassName=Sheet1 Member=Component L3 LED
+Added Member To Class: ClassName=Sheet1 Member=Component U1 DC-062A-4A-2.0
+Added Member To Class: ClassName=Sheet1 Member=Component U3 DC-062A-4A-2.0

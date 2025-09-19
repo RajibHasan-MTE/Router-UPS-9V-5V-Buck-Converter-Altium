@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=+5V Pin=P1-2
+Removed Pin From Net: NetName=NetP2_3 Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R1-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Change Component Footprint: Designator=Q1 Old Footprint=FP-PG-TO263-3-MFG New Footprint=TO-263
+Change Component Footprint: Designator=R1 Old Footprint=MY_1206 New Footprint=RES_0805
+Change Component Footprint: Designator=R5 Old Footprint=MY_1206 New Footprint=RES_0805
+Change Component Comment : Designator=R1 Old Comment=3.3k New Comment=RES 220 ±5% 125mW 0805
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=RES 100k ±5% 125mW 0805
+Change Component Comment : Designator=C2 Old Comment=Cap 220UF 16V New Comment=CAP ALUM 220uF ±20% 16V SMD
+Change Component Comment : Designator=C3 Old Comment=Cap 220UF 16V New Comment=CAP ALUM 220uF ±20% 16V SMD
+Change Component Comment : Designator=Q1 Old Comment=IRFZ44VZSPBF New Comment=MOSFET N-CH 60V 60A TO-263 SMD
+Change Component Comment : Designator=L1 Old Comment=SRR1260-330M New Comment=FIXED IND 33uH 3A 65m SMD,12x12mm
+Change Component Comment : Designator=L2 Old Comment=SRR1260-330M New Comment=FIXED IND 33uH 3A 65m SMD,12x12mm
+Change Component Comment : Designator=D1 Old Comment=SS34 New Comment=DIODE SCHOTTKY 40V SMA(DO-214AC)
+Change Component Comment : Designator=D6 Old Comment=SS34 New Comment=DIODE SCHOTTKY 40V SMA(DO-214AC)
+Change component parameters: Designator = "C1" ("C1"); Footprint = "WCAP-PSLP_D6.3H7.7"; UniqueID = "\EVIMALIV" ("\EVIMALIV")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C46550400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JIERR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "JVJ16V470M6x8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,D6.3xL7.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470uF/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP-220"; UniqueID = "\VPCFQPRM" ("\VPCFQPRM")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C970695"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C2887273"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KNSCHA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RVT220UF16V67RV0015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,D6.3xL7.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP-220"; UniqueID = "\BNQSQJKX" ("\BNQSQJKX")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C970695"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C2887273"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KNSCHA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RVT220UF16V67RV0015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,D6.3xL7.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD-123"; UniqueID = "\ZMXMDXUA" ("\ZMXMDXUA")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C908680"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GOODWORK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "SS34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "SOD-123"; UniqueID = "\NSWDKAYA" ("\NSWDKAYA")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C908680"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GOODWORK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "SS34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDP125125X600N"; UniqueID = "\YTOYDLKE" ("\YTOYDLKE")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C339951"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YJYCOIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "YPRH1207-330M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,12x12mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "INDP125125X600N"; UniqueID = "\PBKUBWFA" ("\PBKUBWFA")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C339951"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YJYCOIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "YPRH1207-330M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,12x12mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FP-PG-TO263-3-MFG"; UniqueID = "\OLXUYSKI" ("\OLXUYSKI")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C7587862"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Minos"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "IRFZ44NS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "IRFZ44"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "MY_1206"; UniqueID = "\ZLTUAJFA" ("\ZLTUAJFA")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C2933537"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "FRC0805J221 TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "MY_1206"; UniqueID = "\BLEBIJQR" ("\BLEBIJQR")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C2907293"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "FRC0805J104 TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T1" ("T1"); Footprint = "KF301 2Pin"; UniqueID = "\GKGUYJXM" ("\GKGUYJXM")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8475"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KANGNEX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "WJ301V-5.0-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Through Hole,P=5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetP2_3 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(152, 0, 0)

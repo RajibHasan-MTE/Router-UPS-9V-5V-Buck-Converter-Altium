@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=+9V Pin=R8-2
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Change Component Footprint: Designator=R7 Old Footprint=MY_1206 New Footprint=RES_0805
+Change Component Comment : Designator=R7 Old Comment=1.2K New Comment=RES 12.7K 125mW 0805
+Change component parameters: Designator = "R7" ("R7"); Footprint = "MY_1206"; UniqueID = "\QHOGCHMC" ("\QHOGCHMC")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C20162867"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0805FR-1312K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "TO-263-5"; UniqueID = "\AOBIMRNO" ("\AOBIMRNO")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C347421"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "LM2596S-5.0(UMW)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-263-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM2596S-5.0(UMW)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR2" ("VR2"); Footprint = "TO-263-5"; UniqueID = "\ZKBPIXBZ" ("\ZKBPIXBZ")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C347421"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "LM2596S-5.0(UMW)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-263-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM2596S-5.0(UMW)"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C114572"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "RC0805FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=+9V Pin=R7-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-2
+Added Pin To Net: NetName=NetR6_2 Pin=VR2-4
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap 220UF 16V
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap 220UF 16V
+Added Member To Class: ClassName=Sheet1 Member=Component D6 SS34
+Added Member To Class: ClassName=Sheet1 Member=Component J3 DC_Jack
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component R2 3.6K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 RES 6.2K 125mW 0805
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R6 RES 2K 125mW 0805

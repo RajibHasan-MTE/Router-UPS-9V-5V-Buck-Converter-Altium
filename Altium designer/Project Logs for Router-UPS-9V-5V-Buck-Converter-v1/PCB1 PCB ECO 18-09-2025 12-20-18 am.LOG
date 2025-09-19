@@ -1,0 +1,13 @@
+Added Component: Designator=D?(My_LED3MM)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "LED-AS"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_1206)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.6K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-K
+Added Pin To Net: NetName=NetD3_A Pin=R?-1
+Change Net Name : Old Net Name=NetD3_A New Net Name=+Cha
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-2
+Added Net: Name=NetD?_A
+Added Member To Class: ClassName=Sheet1 Member=Component D? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? 3.6K
