@@ -1,5 +1,11 @@
 # Pengo-UPS v2 – Router UPS (5V/9V Buck Converter)
 
+<p align="center">
+    <img src="img/3d-pcb-font.png" alt="Pinout" width="500" height="300">
+</p>
+
+
+
 ![PCB Front View](./3d-pcb-font.png)  
 *(3D PCB Front View)*  
 
